@@ -1,3 +1,3 @@
 # Programming-with-Big-Data
 
-This repository contains version of my lecture on programming with big data.
+This repository contains versions of my lecture on programming with big data.
